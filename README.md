@@ -1,4 +1,4 @@
-```
+
 ## 🧠 Welcome to the Archive
 
 **Nothing to see here. Or is there?**
@@ -48,4 +48,4 @@ const me = {
 
 🔍 “Everything not saved will be lost.” — Nintendo Quit Screen  
 Or was it the **digital archivist**?
-```
+
