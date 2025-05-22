@@ -1,43 +1,51 @@
-# 👋 Hi, I'm @cyberarchives
+```
+## 🧠 Welcome to the Archive
 
-## About Me
-A digital archivist passionate about reverse engineering games, writing amazing front-end applications, creating top-tier backend APIs and multiplayer servers
+**Nothing to see here. Or is there?**
 
-## 🚀 What I Do
-- Digital preservation strategies and implementations
-- Data organization and metadata management
-- Building tools that help make modding easier
-- Building tools that make information retrieval more intuitive
-- Build multiplayer networking protocols
+---BEGIN ENCODED PROFILE---
+VGhpcyBpcyBub3QganVzdCBhIHByb2ZpbGUuIFRoZXJlJ3MgbW9yZSB0aGFuIG1lZXRzIHRoZSBleWUuIFNv
+bWUgdGhpbmdzIGFyZSBvYnZpb3VzLiBUaGV5IG11c3QgbmVlZCBkZWNvZGluZy4gU3RhcnQgd2l0aDoKQDEg
+MCAxIDAgMCAxIDAgMQogU2VhcmNoIGZvciB0aGUga2V5IG9uIFh1YmVyLCAgb3IgdmlzaXQgc25vb2Z6Lm5l
+dAogQ2hlY2sgdGhlIGZvb3Rub3Rlcy4gVGhleSdtIG1vcmUgdGVsbGluZyB0aGFuIHlvdSB0aGluawogRW5j
+cnlwdGlvbiBpcyBhcmNoaXZhbCBvZiBwYXNzaW9uLg==  
+---END ENCODED PROFILE---
 
-## 💻 Tech Stack
-- **Languages**: C#, JavaScript, C++, C, Rust, Go
-- **Tools**: Docker, Git
-- **Frameworks**: Parcel, React
-- **Databases**: MongoDB, PostgreSQL, SQLite, LevelDB
+> *Hint 1: It's base64. You know what to do.*  
+> *Hint 2: Even after decoding, things may still look… coded.*
 
-## 🔍 Current Focus
-Currently working on improving ways to make multiplayer networking 100x better than current solutions out there.
+## 🔐 Digital Relic
 
-## 📚 Projects
-- [ArchiveNetwork](https://github.com/cyberarchives/ArchiveNetwork) - Advanced Real-time Communication and Hierarchical Information Vector Exchange
-- [MeowEngine](https://github.com/cyberarchives/meowengine-parcel) - A high-performance Bullet Force Cheat Engine rebuilt with Parcel bundler for optimized performance and enhanced code organization.
-- [Quick MPP Server](https://github.com/cyberarchives/quick-mpp-server) - A rewrite of the Multiplayer Piano server but speedy
+🗝️ **Some keys aren't on the keyboard.** Ever heard of a **Hierarchical Information Vector Exchange**?
 
-## 🌱 Learning
-Always expanding my knowledge in:
-- Machine learning for content categorization
-- Blockchain for digital provenance
-- Emulation strategies for legacy systems
+Find the projects. They know what you're building.
 
-## 📫 Connect With Me
-- [Twitter/X](https://x.com/snooferz)
-- [My Website](https://snoofz.net/)
-- [About me](https://snoofz.net/profile/snoofz)
+## 🧬 Steganote
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberarchives&show_icons=true&theme=radical)
+Hidden across the web, you'll find notes:
 
----
+- https://snoofz.net/  
+- https://snoofz.net/profile/archive  
 
-*"The web is more a social creation than a technical one." — Tim Berners-Lee*
+_Trace the connections._
+
+## 🔎 Source Signature
+
+```javascript
+// 0x436F64653A
+const me = {
+  alias: "cyberarchives",
+  stack: ["C#", "Rust", "Go", "JavaScript", "C++", "C"],
+  currentFocus: "Rewriting how multiplayer protocols work",
+  favoriteQuote: "The web is more a social creation than a technical one.",
+  tracker: "https://github-readme-stats.vercel.app/api?username=cyberarchives&show_icons=true&theme=radical",
+};
+```
+
+> *Hint 3: You’re looking for the real deal. Try hex decoding the comment.*
+
+## 👁️‍🗨️ Final Words
+
+🔍 “Everything not saved will be lost.” — Nintendo Quit Screen  
+Or was it the **digital archivist**?
+```
